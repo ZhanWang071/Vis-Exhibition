@@ -25,7 +25,8 @@ export default {
 }
 
 body {
-    line-height: 1.4;
+    display: flex;
+    flex-direction: column;
     font-family: Open Sans,sans-serif;
 }
 </style>

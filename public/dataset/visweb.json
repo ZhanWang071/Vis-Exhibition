@@ -1,0 +1,42 @@
+[
+{"title": "Simulated Dendrochronology of U.S. Immigration",
+"image":"image/immigrant1.png" ,
+"url":"https://web.northeastern.edu/naturalizing-immigration-dataviz/",
+"des":"Nature has its own ways of organizing information: organisms grow and register information from the environment. This is particularly notable in trees, which, through their rings, tell the story of their growth. Drawing on this phenomenon as a visual metaphor, the United States can be envisioned as a tree, with shapes and growing patterns influenced by immigration. The nation, the tree, is hundreds of years old, and its cells are made out of immigrants. As time passes, the cells are deposited in decennial rings that capture waves of immigration."
+  },
+{"title": "send me",
+"image":"image/send_me.jpg" ,
+"url":"https://send-me-love.com/#/sendme/love/3",
+"des":"Last June, SFMOMA launched Send Me SFMOMA, a service where individuals could text a variety of requests - “send me love”, “send me hope”, “send me smiles” - and SFMOMA would respond with an artwork that best matched the request. They received over 5 million texts from hundreds of thousands of individuals over the course of a year.I’ve chosen five individuals - whom I've named love, happy, smile, cats, and moon - and a week of their interactions to focus my visualization around. Each tree represents a day in that individual’s life, and I love watching the flowers grow as they interact with Send Me SFMOMA. I love coming across little snippets of their lives: when I find a tree blooming full with flowers, I wonder if something good happened that day. When I watch a tree grow in the early hours of the morning, I wonder what’s keeping them up. When I see a week filled with flowers, but suddenly a small tree with leaves of “mourning” and “black” - I wonder what might have happened."
+  },
+{"title": "ocean",
+"image":"" ,
+"url":"https://www.scicom-lab.com/portfolio-items/explore-the-ocean/",
+"des":"Problem: To inform and sensitize passengers about the ocean as an ecosystem of global importance.\nSolution: The interactive scientific poster \"Explore The Ocean\" of the GEOMAR Helmholtz Centre explains complex marine science with a multi-touch display right on board the Hapag-Lloyd expedition ships. Detailed 3D animations and extensive data visualizations explain global processes in the oceans and make climate change comprehensible for passengers. "
+  },
+{"title": "zeit",
+"image":"image/zeit.jpg"  ,
+"url":"https://www.zeit.de/politik/deutschland/2019-05/east-west-exodus-migration-east-germany-demography",
+"des":"Since German reunification, millions of people have left the eastern part of Germany, triggering a demographic crisis. Data now shows exactly what happened – and why there’s cause for hope."
+  },
+{"title": "cosmic",
+"image": "",
+"url":"https://www.zeit.de/politik/deutschland/2019-05/east-west-exodus-migration-east-germany-demography",
+"des":"The concept of the cosmic web—viewing the universe as a set of discrete galaxies held together by gravity—is deeply ingrained in cosmology. Yet, little is known about architecture of this network or its characteristics. Our research used data from 24,000 galaxies to construct multiple models of the cosmic web, offering complex blueprints for how galaxies fit together. These three interactive visualizations help us imagine the cosmic web, show us differences between the models, and give us insight into the fundamental structure of the universe."
+  },
+{"title": "bruises",
+"image": "image/bruises.jpg" ,
+"url":"https://www.pentagram.com/work/bruises-the-data-we-dont-see?rel=discipline&rel-id=16",
+"des":"The process of tracking and interpreting the full impact of a child’s illness helps a family and their friend understand and communicate their experience through art and music."
+  },
+{"title": "stars",
+"image": "image/stars.jpg" ,
+"url":"http://stars.chromeexperiments.com/",
+"des":"The 100,000 Stars site puts scientific data about the size of our universe into more palatable terms."
+  },
+{"title": "universcale",
+"image": "image/universcale.png" ,
+"url":"https://www.nikon.com/about/sp/universcale/scale.htm",
+"des":"From the tiniest microcosm to the vast reaches of outer space,  Nikon's opto-electronics technologies reveal realms beyond the range of the naked eye."
+  }
+  ]
