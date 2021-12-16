@@ -1,0 +1,114 @@
+[ 
+  {
+    "title": "Charles Joseph Minard",
+    "subtitle": "map of Napoleon’s Russia campaign",
+    "sectionId": 0,
+    "image": "image/Minard.png"
+  },
+  {
+    "title": "Diagram of the Causes of Mortality in the Army in the East",
+    "sectionId": 0,
+    "image": "image/hou.png"
+  },
+  {
+    "title": "Simulated Dendrochronology of U.S. Immigration",
+    "sectionId": 0,
+    "image":"image/immigrant1.png" ,
+    "url":"https://web.northeastern.edu/naturalizing-immigration-dataviz/",
+    "des":"大自然有独特的组织信息的方式：有机体生长并记录环境中的信息。例如树木通过年轮讲述自己的成长。这个作品将这种现象作为视觉隐喻，把美国想象成一棵树，那么其形状和生长模式受移民影响。这个国家，这棵树，有数百年的历史，它的细胞是由移民组成的。随着时间的推移，这些细胞沉积在十年轮中从而捕捉到了移民的趋势。"
+    },
+  {
+    "title": "Send Me SFMOMA",
+    "sectionId": 0,
+    "image":"image/send_me.JPG" ,
+    "url":"https://send-me-love.com/#/sendme/love/3",
+    "des":"Send Me SFMOMA是一项服务，人们通过短信发送各种请求，例如“给我爱”、“给我希望”、“给我微笑”，SFMOMA将回复最符合请求的艺术品。在一年的时间里，他们收到了来自数十万人的超过500万条短信。作者选择了五个人——爱、快乐、微笑、猫和月亮——以及他们一周的互动进行可视化的表达。每棵树都代表那个人生命中的一天。"
+    },
+  {
+    "title": "The Millions Who Left",
+    "sectionId": 0,
+    "image":"image/zeit.JPG"  ,
+    "url":"https://www.zeit.de/politik/deutschland/2019-05/east-west-exodus-migration-east-germany-demography",
+    "des":"自德国统一以来，数百万人离开了德国东部，引发了人口危机。这幅作品准确地显示了这段时间发生了什么，以及为什么还会有希望。 "
+  },
+  {
+    "title": "Art Emotions Map",
+    "sectionId": 0,
+    "video": "https://www.youtube.com/embed/B-1xzudnueQ",
+    "youtube": true,
+    "url": "https://artsexperiments.withgoogle.com/art-emotions-map/"
+  },
+  {
+    "title": "Bruises: The Data We Don’t See",
+    "sectionId": 0,
+    "image": "image/bruises.jpg" ,
+    "url":"https://www.pentagram.com/work/bruises-the-data-we-dont-see?rel=discipline&rel-id=16",
+    "des":"跟踪和解释儿童疾病的全部影响能帮助这些患病儿童的家人和朋友通过艺术和音乐了解他们，与他们交流。"
+  },
+  {
+    "title": "HoagsOLife",
+    "subtitle": "PacificVis2021 Visual Data Storytelling Contest, Winner",
+    "sectionId": 0,
+    "image": "image/sudongpo.png",
+    "url": "https://www.bilibili.com/video/BV1Fy4y137KP?from=search&seid=450855632496367410",
+    "des":"HoagsOLife展示我国北宋著名文人——苏轼的一生经历，从文学创作、游历经历、为官经历与饮食文化四个角度，向普通观众系统讲述苏轼的人生故事，并展现出苏轼对中国文化的影响力。"
+  },
+  {
+    "title": "Ventusky",
+    "sectionId": 1,
+    "url": "https://www.ventusky.com/?p=40.6;108.4;4&l=temperature-2m",
+    "image": "image/ventusky.JPG"
+  },
+  {
+    "title": "Coral Cities",
+    "sectionId": 1,
+    "url": "https://www.behance.net/gallery/70862691/Coral-Cities-An-Ito-Design-Lab-Concept?tracking_source=search_projects_recommended%7Ccoral%20cities",
+    "image": "image/behance.gif"
+  },
+  {
+    "title": "Nature 150 Interactive",
+    "sectionId": 1,
+    "url": "https://www.nature.com/immersive/d41586-019-03165-4/index.html",
+    "image": "image/nature.JPG"
+  },
+  
+  {
+    "title": "Explore the Ocean",
+    "sectionId": 1,
+    "video": "https://player.vimeo.com/video/357364886",
+    "youtube": true,
+    "url":"https://www.scicom-lab.com/portfolio-items/explore-the-ocean/",
+    "des":"为了能让观众了解海洋是一个具有全球重要性的生态系统，GEOMAR Helmholtz中心设计了交互式科学海报“探索海洋”，通过赫伯罗特探险船上的多点触控显示屏解释了复杂的海洋科学。其中，详细的3D动画和丰富的数据可视化解释了海洋中的全球过程，并帮助观众能够理解气候变化。"
+    },
+  
+  {
+    "title": "Cosmic Web",
+    "sectionId": 1,
+    "video": "https://www.youtube.com/embed/wDYkvVhky2c",
+    "youtube": true,
+    "url":"http://cosmicweb.barabasilab.com",
+    "des":"Cosmic Web指将宇宙视为一组由引力连接在一起的离散星系，这个概念在宇宙学中根深蒂固。然而，我们对该网络的架构或特征知之甚少。这项研究使用了来自24,000个星系的数据来构建Cosmic Web的多种模型，为星系是如何组合的这一问题提供复杂的蓝图。三个交互式可视化可以帮助我们想象Cosmic Web，展示模型之间的差异，洞察宇宙的基本结构。"
+    },
+
+  {
+    "title": "100,000 Stars",
+    "sectionId": 1,
+    "image": "image/stars.JPG" ,
+    "url":"http://stars.chromeexperiments.com/",
+    "des":"100,000 Stars项目可视化了有关宇宙大小的科学数据。"
+    },
+  {
+    "title": "UNIVERSCALE",
+    "sectionId": 1,
+    "image": "image/universcale.png" ,
+    "url":"https://www.nikon.com/about/sp/universcale/scale.htm",
+    "des":"从最小的微观世界到广阔的外太空，尼康的光电技术揭示了肉眼无法观察的领域。"
+  },
+  {
+    "title": "Chirming",
+    "sectionId": 1,
+    "subtitle":"Visual Communication Student Winner",
+    "url": "https://designawards.core77.com/Visual-Communication/30854/Chirming",
+    "image": "image/chirming.jpg"
+  }
+  ]
